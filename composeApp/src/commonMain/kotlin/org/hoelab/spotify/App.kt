@@ -9,6 +9,6 @@ import org.jetbrains.compose.ui.tooling.preview.Preview
 @Preview(showBackground = true)
 fun App() {
     MoosicTheme {
-        Text("Hello")
+        Text("Login")
     }
 }
